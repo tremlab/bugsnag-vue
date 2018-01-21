@@ -12,5 +12,9 @@
   "dependencies": {
     "serve": "^6.4.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugsnag/bugsnag-vue.git"
+  }
 }
